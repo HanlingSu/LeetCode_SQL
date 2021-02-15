@@ -1,4 +1,3 @@
-# hello-world
-first repository created
+# LeetCode_SQL
 
-Sue here, finally start this crash course. 
+A notebook for practice problems of SQL, includes the number of problem, level of difficulty, reasons of mistake and correct solution.
